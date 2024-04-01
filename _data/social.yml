@@ -2,9 +2,9 @@
   url: https://www.linkedin.com/in/moses-luri-0b081158/
   icon: fab fa-linkedin
   
-- icon: google-scholar
-  icon_pack: ai
+- title: google-scholar
   url: https://scholar.google.com/citations?user=lLIPEFAAAAAJ&hl=en
+  icon: google-scholar
   
 - title: Twitter
   url: https://twitter.com/luri_moses
