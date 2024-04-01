@@ -3,8 +3,8 @@
   icon: fab fa-linkedin
 - title: Google-Schola
   url: https://scholar.google.com/citations?user=lLIPEFAAAAAJ&hl=en
-  #icon_pack = "ai"
-  icon: fab fa-google-schola
+  icon_pack = "ai"
+  #icon: fab fa-google-schola
  
   
 - title: Twitter
