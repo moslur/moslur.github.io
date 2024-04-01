@@ -4,4 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+I am an Economist with advanced training in Statistics. My expertise is in applied econometrics, causal inference methods, machine learning, data visualization and research about the environment, markets, and food, energy, and water (FEW) systems. I enjoy applying my strong analytical and quantitative skills to turn unstructured problems into researchable questions that can be answered with data to provide sights and value.
+
+
