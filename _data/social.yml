@@ -1,6 +1,12 @@
 - title: Linkedin
   url: https://www.linkedin.com/in/moses-luri-0b081158/
   icon: fab fa-linkedin
+- title: Google-schola
+  url: https://scholar.google.com/citations?user=lLIPEFAAAAAJ&hl=en
+  #icon_pack = "ai"
+  icon: fab fa-google-schola
+ 
+  
 - title: Twitter
   url: https://twitter.com/luri_moses
   icon: fab fa-twitter
