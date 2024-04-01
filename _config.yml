@@ -3,7 +3,7 @@ description: This is my profile site
 author: Moses Luri
 avatar: /profile_image.jpeg
 email: mosesluri1@gmail.com
-suscribe: false
+subscribe: false
 
 plugins:
   - jekyll-seo-tag
