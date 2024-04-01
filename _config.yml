@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: Hi, Welcome!
+description: My professional site
+author: Moses Luri
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: mosesluri1@gmail.com
 
 plugins:
   - jekyll-seo-tag
