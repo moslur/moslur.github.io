@@ -5,7 +5,7 @@ title: Research
 permalink: /research/
 ---
 
-## On-going Research (Manuscripts)
+## On-going Work (Manuscripts)
 
 1. [A Double Machine Learning Approach to Estimate Location and Religion Effects on Household Welfare in Ghana (https://github.com/moslur/moslur.github.io/blob/master/assets/machine_learning_paper_draft.pdf)
 
@@ -14,7 +14,7 @@ permalink: /research/
 3. [A Multi Sector Empirical Analysis of Economic Growth Effects on Water Use in the U.S. Over the Period 1960-2015 (https://github.com/moslur/moslur.github.io/blob/master/assets/water_use_paper_draft.pdf)
 
 
-## Published Research
+## Published Work
 
 1. <a href="https://pubmed.ncbi.nlm.nih.gov/36661984/" target="_blank">Invasive Aedes Japonicus Mosquitoes Dominate Aedes Fauna Collected with Gravid Traps in Wooster, North-eastern Ohio, USA. Insects 14(1):56. (January 2023), with Ferdinand Nanfack-Minkeu, Alexander Delong, and Jelmer W. Poelstra. (Interdisciplinary research) </a>
 
