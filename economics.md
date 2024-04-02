@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Docs
-permalink: /docs/
+title: Economics
+permalink: /economics/
 ---
 
 A documentation page.
