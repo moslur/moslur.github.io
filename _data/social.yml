@@ -12,7 +12,7 @@
   icon: fab fa-github
 - title: ORCID
   url: https://orcid.org/0009-0002-5793-5192
-  icon: ai ai-orcid
+  icon: fa fab-orcid
 
   <i class="fab fa-orcid" style="color:#A6CE39;"></i>
    
