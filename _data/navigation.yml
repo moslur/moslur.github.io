@@ -6,10 +6,10 @@
   url: /teaching/
 - title: Data visualization
   url: /data_visualization/
-- title: More
+- title: Projects
   sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
+    - title: Economics
+      url: /economics/
+    - title: Data Science
+      url: /data_science/
 
