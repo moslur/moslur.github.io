@@ -5,4 +5,4 @@ title: CV
 permalink: /cv/
 ---
 
-[CV](/assets/CV.pdf)
+[CV](/assets/css/CV.pdf)
