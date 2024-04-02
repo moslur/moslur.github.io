@@ -1,19 +1,15 @@
 - title: Linkedin
   url: https://www.linkedin.com/in/moses-luri-0b081158/
   icon: fab fa-linkedin
-  
 - title: Scholar
   url: https://scholar.google.com/citations?user=lLIPEFAAAAAJ&hl=en
   icon: ai ai-google-scholar
-  
 - title: Twitter
   url: https://twitter.com/luri_moses
   icon: fab fa-twitter
-  
 - title: GitHub
   url: https://github.com/ngzhio/jekyll-theme-hamilton
   icon: fab fa-github
-
 - title: ORCID
   url: https://orcid.org/0009-0002-5793-5192
   icon: ai ai-orcid
