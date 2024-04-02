@@ -4,8 +4,8 @@
   url: /research/
 - title: Teaching
   url: /teaching/
-- title: Tags
-  url: /tags/
+- title: Data visualization
+  url: /data_visualization/
 - title: More
   sublinks:
     - title: FAQ
