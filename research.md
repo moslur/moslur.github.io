@@ -7,11 +7,11 @@ permalink: /research/
 
 ## On-going works (Manuscripts)
 
-1. [A Double Machine Learning Approach to Estimate Location and Religion Effects on Household Welfare in Ghana] (https://github.com/moslur/moslur.github.io/blob/master/assets/machine_learning_paper_draft.pdf)
+1. [A Double Machine Learning Approach to Estimate Location and Religion Effects on Household Welfare in Ghana](https://github.com/moslur/moslur.github.io/blob/master/assets/machine_learning_paper_draft.pdf)
 
 2. [Water storage and economic resilience in a managed hydrologic system](https://github.com/moslur/moslur.github.io/blob/master/assets/water_use_paper_draft.pdf)
 
-3. [A Multi Sector Empirical Analysis of Economic Growth Effects on Water Use in the U.S. Over the Period 1960-2015] (https://github.com/moslur/moslur.github.io/blob/master/assets/water_use_paper_draft.pdf)
+3. [A Multi Sector Empirical Analysis of Economic Growth Effects on Water Use in the U.S. Over the Period 1960-2015](https://github.com/moslur/moslur.github.io/blob/master/assets/water_use_paper_draft.pdf)
 
 
 ## Published work
