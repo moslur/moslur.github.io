@@ -1,1 +1,6 @@
-<embed src="/cv.pdf" type="application/pdf">
+---
+layout: page
+type: cv
+title: CV
+permalink: /cv/
+---
