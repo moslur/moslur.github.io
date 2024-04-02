@@ -2,7 +2,7 @@
 layout: page
 type: cv
 title: CV
-permalink: //assets/css/CV.pdf/
+permalink: //
 ---
 
 [CV](/assets/css/CV.pdf)
