@@ -14,3 +14,8 @@
 - title: GitHub
   url: https://github.com/ngzhio/jekyll-theme-hamilton
   icon: fab fa-github
+
+- title: ORCID
+  url: https://orcid.org/0009-0002-5793-5192
+  icon: "ai ai-orcid"
+   
