@@ -5,3 +5,4 @@ title: CV
 permalink: /cv/
 ---
 
+<embed src="/cv.pdf" type="application/pdf">
