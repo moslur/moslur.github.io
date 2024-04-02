@@ -5,9 +5,9 @@ title: Research
 permalink: /research/
 ---
 
-# On-going Research
+# On-going Research (Manuscripts)
 
-
+[A Double Machine Learning Approach to Estimate Location and Religion Effects on Household Welfare in Ghana]("/assets/css/machine_learning_paper_draft.pdf")
 
 
 # Published Research
