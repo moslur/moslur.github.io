@@ -1,6 +1,6 @@
 ---
 layout: page
-type: data science projects
-title: Data Science Projects
+type: data science 
+title: Data Science 
 permalink: /data_science/
 ---
