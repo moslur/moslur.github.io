@@ -5,4 +5,4 @@ title:
 permalink: /CV/
 ---
 
-<embed src="https://github.com/moslur/moslur.github.io/blob/master/assets/CV.pdf" type="application/pdf" />
+<embed src="https://moslur.github.io/assets/css/CV.pdf" type="application/pdf"/>
