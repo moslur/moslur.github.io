@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: default
 type: cv
-title: CV
+title: 
 permalink: /cv/
 ---
 
