@@ -7,4 +7,4 @@ header:
   image: assets/css/cv.pdf
 ---
 
-[CV](https://github.com/moslur/moslur.github.io/blob/master/assets/water_use_paper_draft.pdf)
+[CV](https://github.com/moslur/moslur.github.io/blob/master/assets/cv.pdf)
