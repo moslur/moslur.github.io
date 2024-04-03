@@ -46,6 +46,7 @@
     <ul class="social-icons">
       {% for social in site.data.social -%}
         <li>
+          <i class="ai ai-google-scholar-square ai-3x"></i>
           <a class="social-icon" href="{{ social.url }}"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>
         </li>
       {%- endfor %}
