@@ -6,4 +6,4 @@ permalink: /CV/
 ---
 
 
-<embed src="https://username.github.io/mydoc.pdf" type="application/pdf"/>
+<embed src="https://github.com/moslur/moslur.github.io/blob/master/assets/cv.pdf" type="application/pdf"/>
