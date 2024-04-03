@@ -1,7 +1,7 @@
 ---
 layout: page
 type: CV
-title: CV
+title: 
 permalink: /CV/
 ---
 
