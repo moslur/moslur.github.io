@@ -13,6 +13,8 @@ permalink: /research/
 
 3. [A Multi Sector Empirical Analysis of Economic Growth Effects on Water Use in the U.S. Over the Period 1960-2015](https://github.com/moslur/moslur.github.io/blob/master/assets/water_use_paper_draft.pdf)
 
+4. [Fitting Bivariate Integer-valued AR(1) Models with Negative Binomial, and Normal Innovations to Count Data with Seasonality](https://github.com/moslur/moslur.github.io/blob/master/assets/time_series_project_draft.pdf)
+
 
 ## Published work
 
