@@ -23,8 +23,8 @@ DATA – 27901: DataFest Seminar – Spring 2024, 2023
 
 ECON - 29905: Environmental Urban Economics – Fall 2020
 
-ECONS - 452: Advanced Business Management Economics (Online) – Spring (online)
+ECON - 452: Advanced Business Management Economics (Online) – Spring (online)
 
-ECONS - 430: Managing the Global Environment – Fall 2019
+ECON - 430: Managing the Global Environment – Fall 2019
 
 
