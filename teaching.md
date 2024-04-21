@@ -1,7 +1,7 @@
 ---
 layout: page
 type: teaching
-title: Teaching
+title: Courses Taught
 permalink: /teaching/
 ---
 
