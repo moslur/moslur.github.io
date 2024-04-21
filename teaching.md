@@ -13,4 +13,4 @@ DATA – 27901: DataFest Seminar – Spring 2024, 2023
 
 [ECON – 10100: Principles of Economics – Fall 2023, 2022, 2021 2020, Spring 2021](Econ101-Syllabus–Fall23.pdf) 
 
-
+[ECON – 11000: Quantitative Methods – Fall 2022](Econ110.Syllabus.FA22.pdf)
