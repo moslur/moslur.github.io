@@ -16,3 +16,5 @@ DATA – 27901: DataFest Seminar – Spring 2024, 2023
 [ECON – 11000: Quantitative Methods – Fall 2022](Econ110.Syllabus.FA22.pdf)
 
 [BUEC - 29902: Data Analytics in Business – Spring 2022](DAiB.Syllabus.SP22.pdf)
+
+[DATA - 10200: Introduction to Statistics – Spring 2022, Fall 2021](DATA102.Syllabus.SP22.pdf)
