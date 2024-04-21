@@ -18,3 +18,5 @@ DATA – 27901: DataFest Seminar – Spring 2024, 2023
 [BUEC - 29902: Data Analytics in Business – Spring 2022](DAiB.Syllabus.SP22.pdf)
 
 [DATA - 10200: Introduction to Statistics – Spring 2022, Fall 2021](DATA102.Syllabus.SP22.pdf)
+
+[ECON - 24000: Environmental and Natural Resource Economics – Spring 2021](Env&Nat.Res.Eco.Syllabus.Spring.21.pdf)
