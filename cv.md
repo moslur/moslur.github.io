@@ -1,7 +1,7 @@
 ---
 layout: page
 type: CV
-title: 
+title: Curriculum Vitae
 permalink: /CV/
 ---
 
