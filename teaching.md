@@ -20,3 +20,11 @@ DATA – 27901: DataFest Seminar – Spring 2024, 2023
 [DATA - 10200: Introduction to Statistics – Spring 2022, Fall 2021](DATA102.Syllabus.SP22.pdf)
 
 [ECON - 24000: Environmental and Natural Resource Economics – Spring 2021](Env&Nat.Res.Eco.Syllabus.Spring.21.pdf)
+
+ECON - 29905: Environmental Urban Economics – Fall 2020
+
+ECONS - 452: Advanced Business Management Economics (Online) – Spring (online)
+
+ECONS - 430: Managing the Global Environment – Fall 2019
+
+
