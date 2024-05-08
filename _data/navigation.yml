@@ -9,9 +9,11 @@
 - title: Data Visualization
   url: /data_visualization/
 - title: Projects
-  sublinks:
-    - title: Economics
-      url: /economics/
-    - title: Data Science
-      url: /data_science/
+  url: /projects/
+  
+  #sublinks:
+  #  - title: Economics
+  #    url: /economics/
+  #  - title: Data Science
+  #    url: /data_science/
 
