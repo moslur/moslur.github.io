@@ -4,6 +4,6 @@ title:
 permalink: /about/
 ---
 
-I am an Economist with advance training in Statistics. My expertise is in applied econometrics, causal inference methods, machine learning, data visualization and research about the environment, markets, and food, energy, and water (FEW) systems. I enjoy applying my strong analytical and quantitative skills to convert unstructured problems into researchable questions that can be answered with data to provide sight and value.
+As an Economist with advanced training in Statistics, I specialize in applied econometrics, causal inference methods, and machine learning. My expertise extends to data visualization and research focused on environmental, market, and food, energy, and water (FEW) systems. I thrive on leveraging my strong analytical and quantitative skills to transform unstructured challenges or open-ended problems into researchable inquiries, utilizing data to generate insights and add tangible value.
 
 
