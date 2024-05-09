@@ -5,4 +5,4 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-[CV](cv.pdf)
+[Click to load CV](cv.pdf)
