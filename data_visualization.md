@@ -6,7 +6,7 @@ permalink: /data_visualization/
 
 [Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-The following visualizations are recreated for teaching purposes from the Book [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
+The following visualizations were recreated for teaching purposes from the Book [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
 
 1. [Visualizing ratios and rates](https://public.tableau.com/views/ratios--rates/RatiosBarchart?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -20,7 +20,7 @@ The following visualizations are recreated for teaching purposes from the Book [
 
 6. [Visualizing Relationships between multiple quantities](https://public.tableau.com/views/Visualizingrelationships/Quadrantchart?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-7. [Visualizing Change oiver time](https://public.tableau.com/views/Visualizingchangeovertime/Dual-axislineplot?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+7. [Visualizing Change over time](https://public.tableau.com/views/Visualizingchangeovertime/Dual-axislineplot?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 8. [Visualizing Maps](https://public.tableau.com/views/2012-Hurricanes/Hurricanepath?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
