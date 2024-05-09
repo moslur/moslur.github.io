@@ -18,4 +18,6 @@ Visualizations recreated for teaching purposes from the Book [Communicating Data
 
 [Visualizing uncertainty](https://public.tableau.com/views/Visualizinguncertainty/CIsfor3rd-4thgraders?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
+[Visualizing Relationships between multiple quantities](https://public.tableau.com/views/Visualizingrelationships/Quadrantchart?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
 
