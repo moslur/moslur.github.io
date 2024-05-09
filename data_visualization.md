@@ -28,5 +28,5 @@ Visualizations recreated for teaching purposes from the Book [Communicating Data
 
 10. [Recycling in New York](https://public.tableau.com/views/DSNYcollectionch12/RecyclinginNewYork?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-11. [Global internet usage] (https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+11. [Global internet usage](https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
