@@ -4,4 +4,4 @@ title: Projects
 permalink: /Projects/
 ---
 
-#A documentation page.
+Content coming soon.
