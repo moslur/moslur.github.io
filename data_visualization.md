@@ -4,9 +4,9 @@ title: Data visualization
 permalink: /data_visualization/
 ---
 
-[Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+0. [Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-Visualizations recreated for teaching purposes from the Book: [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
+Sample visualizations recreated for teaching purposes from the Book: [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
 
 1. [Visualizing ratios and rates](https://public.tableau.com/views/ratios--rates/RatiosBarchart?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -24,9 +24,9 @@ Visualizations recreated for teaching purposes from the Book: [Communicating Dat
 
 8. [Visualizing Maps](https://public.tableau.com/views/2012-Hurricanes/Hurricanepath?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-9. [Using map shapes in graphs](https://public.tableau.com/views/UsVotingDemographics/Scatterplotwithmapshapes?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+9. [Using map shapes as marks in other charts](https://public.tableau.com/views/UsVotingDemographics/Scatterplotwithmapshapes?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-10. [Recycling in New York](https://public.tableau.com/views/DSNYcollectionch12/RecyclinginNewYork?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+10. [Basic Dashboard: Recycling in New York](https://public.tableau.com/views/DSNYcollectionch12/RecyclinginNewYork?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-11. [Global internet usage](https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+11. [Intermediate Dashboard: Global internet usage](https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
