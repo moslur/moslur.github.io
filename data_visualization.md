@@ -4,9 +4,7 @@ title: Data visualization
 permalink: /data_visualization/
 ---
 
-0. [Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
-Sample visualizations for teaching purposes from the Book: [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
+Sample visualizations recreated the Book: [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
 
 1. [Visualizing ratios and rates](https://public.tableau.com/views/ratios--rates/RatiosBarchart?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -29,4 +27,9 @@ Sample visualizations for teaching purposes from the Book: [Communicating Data w
 10. [Basic Dashboard: Recycling in New York](https://public.tableau.com/views/DSNYcollectionch12/RecyclinginNewYork?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 11. [Intermediate Dashboard: Global internet usage](https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+
+Other visuals
+
+13. [Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
