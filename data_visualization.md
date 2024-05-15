@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data visualization
+title: Data visualization in Tableau
 permalink: /data_visualization/
 ---
 
