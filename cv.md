@@ -6,3 +6,5 @@ permalink: /CV/
 ---
 
 [Academic CV](cv.pdf)
+
+[Resume](Resume-Luri)
