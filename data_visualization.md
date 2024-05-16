@@ -4,7 +4,7 @@ title: Data visualization in Tableau
 permalink: /data_visualization/
 ---
 
-Sample visualizations recreated for teaching purposes from the Book: [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
+Sample visualizations created for teaching purposes from the Book: [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
 
 1. [Visualizing ratios and rates](https://public.tableau.com/views/ratios--rates/RatiosBarchart?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
