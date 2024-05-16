@@ -5,6 +5,5 @@ type: CV
 permalink: /CV/
 ---
 
-[Academic CV](cv.pdf)
+[CV](cv.pdf)
 
-[Resume](Resume-Luri)
