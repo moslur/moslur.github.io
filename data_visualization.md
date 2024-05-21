@@ -32,4 +32,5 @@ Sample visualizations created for teaching purposes from the Book: [Communicatin
 Other visualizations
 
 13. [Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+14. [Single level dendrogram chart](https://public.tableau.com/views/Dendrogramchart_17162701436680/Dendrogram?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
