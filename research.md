@@ -5,7 +5,7 @@ title: Research
 permalink: /research/
 ---
 
-## On-going works (Manuscripts)
+## Manuscripts
 
 1. [A Double Machine Learning Approach to Estimate Location and Religion Effects on Household Welfare in Ghana](https://github.com/moslur/moslur.github.io/blob/master/assets/machine_learning_paper_draft.pdf)
 
