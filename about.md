@@ -3,8 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
-As an Economist with advanced training in Statistics, I specialize in applied econometrics, dynamic optimization methods, and data science. My expertise extends to research focused on the environment, energy markets, and food, energy, and water (FEW) systems resilience. I thrive on leveraging my strong analytical and quantitative skills to transform unstructured challenges into researchable inquiries answerable using data. Beyond teaching and research, I have experience in collaborating with organizations and businesses on projects that involved data analytics and visualization, successfully generating actionable insights.
+I’m an Assistant Professor of Economics and Statistical and Data Sciences at the College of Wooster, where I leverage over five years of experience in course design and instruction in Economics and Data Science. With over a decade of research and data analytics expertise, my work is deeply rooted in Applied Econometrics, Statistics, and Data Analytics. This expertise fuels my systematic and innovative problem-solving approach. I am passionate about deriving impactful insights from data to benefit organizations and society at large. As a lifelong learner, I continuously seek to expand my knowledge and grow in my roles as an economist, statistician, and data enthusiast.
 
 
 
