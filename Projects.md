@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
+title: Data Analytics Projects
 permalink: /Projects/
 ---
 
-Content coming soon.
+Sample projects 
