@@ -1,9 +1,8 @@
 ---
 layout: page
 type: CV/Certifications
-#title: CV/Resume
+#title: CV/Certifications
 permalink: /CV/
 ---
 
-#[CV]#(cv.pdf)#
 
