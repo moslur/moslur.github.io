@@ -4,4 +4,4 @@ title: Data Analytics Projects
 permalink: /Projects/
 ---
 
-Sample projects 
+Sample projects in python
