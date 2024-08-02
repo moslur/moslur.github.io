@@ -4,7 +4,7 @@ title: Data visualization in Tableau
 permalink: /data_visualization/
 ---
 
-Sample visualizations (click links to see dashboards/visualizations)
+Sample visualizations (click links to see dashboards and visualizations)
 
 1. [Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 2. [Intermediate Dashboard: Global internet usage](https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
