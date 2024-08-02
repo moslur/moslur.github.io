@@ -7,7 +7,7 @@ permalink: /data_visualization/
 Sample visualizations (click links to see dashboards and visualizations)
 
 1. [Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-2. [Intermediate Dashboard: Global internet usage](https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+2. [Global internet usage](https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 3. [Recycling in New York](https://public.tableau.com/views/DSNYcollectionch12/RecyclinginNewYork?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 4. [Refuse generated per person in NY Boroughs and Districts](https://public.tableau.com/views/ratios--rates/RatesBarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -24,11 +24,11 @@ Sample visualizations (click links to see dashboards and visualizations)
 
 10. [Historical changes in major league baseball average strikeouts per game, and pitchers per team](https://public.tableau.com/views/Visualizingchangeovertime/Dual-axislineplot?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-11. [Visualizing Maps](https://public.tableau.com/views/2012-Hurricanes/Hurricanepath?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+11. [2012 Hurricane Paths](https://public.tableau.com/shared/4NRGYNZC6?:display_count=n&:origin=viz_share_link)
 
-12. [Using map shapes as marks in other charts](https://public.tableau.com/views/UsVotingDemographics/Scatterplotwithmapshapes?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+12. [U.S. demographics and voting outcomes, 2008](https://public.tableau.com/views/UsVotingDemographics/Scatterplotwithmapshapes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-13. [Single level dendrogram chart](https://public.tableau.com/views/Dendrogramchart_17162701436680/Dendrogram?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+13. [Display store sales by sub-category](https://public.tableau.com/views/Dendrogramchart_17162701436680/Dendrogram?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 Data sources:
 1. [Communicating Data with Tableau](https://learning.oreilly.com/library/view/communicating-data-with/9781449372019/) By Ben Jones
