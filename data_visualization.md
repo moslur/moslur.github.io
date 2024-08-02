@@ -22,7 +22,7 @@ Sample visualizations (click links to see dashboards and visualizations)
 
 9. [Relationship between goals scored and number of shots in soccer](https://public.tableau.com/views/Visualizingrelationships/Quadrantchart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-10. [Visualizing Change over time](https://public.tableau.com/views/Visualizingchangeovertime/Dual-axislineplot?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+10. [Visualizing Change over time](https://public.tableau.com/views/Visualizingchangeovertime/Dual-axislineplot?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 11. [Visualizing Maps](https://public.tableau.com/views/2012-Hurricanes/Hurricanepath?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
