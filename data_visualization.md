@@ -8,13 +8,13 @@ Sample visualizations (click links to see dashboards and visualizations)
 
 1. [Air Quality in Ohio](https://public.tableau.com/views/AirQuality_17128083169780/AirQualityinOhio?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 2. [Intermediate Dashboard: Global internet usage](https://public.tableau.com/views/GlobalInternetusage_17152379397750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-3. [Basic Dashboard: Recycling in New York](https://public.tableau.com/views/DSNYcollectionch12/RecyclinginNewYork?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+3. [Recycling in New York](https://public.tableau.com/views/DSNYcollectionch12/RecyclinginNewYork?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-4. [Visualizing ratios and rates](https://public.tableau.com/views/ratios--rates/RatiosBarchart?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+4. [Refuse generated per person in NY Boroughs and Districts](https://public.tableau.com/views/ratios--rates/RatesBarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-5. [Visualizing proportions and percentages](https://public.tableau.com/views/proportions--percentages/Waterfallchart?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+5. [Baseball Stats: American League (AL) team home runs, 2011 vs. 2012](https://public.tableau.com/views/proportions--percentages/Butterflychart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-6. [Visualizing distribution](https://public.tableau.com/views/VisualizingDistribution/Boxplotwithmean?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+6. [U.S. professional soccer player salaries in 2012 by team](https://public.tableau.com/views/VisualizingDistribution/Guaranteedsalarybyteam?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 7. [Visualizing variation](https://public.tableau.com/views/Visualizingvariation/Lineplot?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
