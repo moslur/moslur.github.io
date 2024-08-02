@@ -20,7 +20,7 @@ Sample visualizations (click links to see dashboards and visualizations)
 
 8. [Confidence intervals for proportions of 3rd-4th graders in a chess club](https://public.tableau.com/views/Visualizinguncertainty/CIsfor3rd-4thgraders?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-9. [Visualizing Relationships between multiple quantities](https://public.tableau.com/views/Visualizingrelationships/Quadrantchart?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+9. [Visualizing Relationships between multiple quantities](https://public.tableau.com/views/Visualizingrelationships/Quadrantchart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 10. [Visualizing Change over time](https://public.tableau.com/views/Visualizingchangeovertime/Dual-axislineplot?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
