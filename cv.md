@@ -5,4 +5,4 @@ type: CV/Certifications
 permalink: /CV/Certifications/
 ---
 
-
+[Google Avanced Data Analytics Certification](GADA_cert)
