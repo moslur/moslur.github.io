@@ -16,7 +16,7 @@ Sample visualizations (click links to see dashboards and visualizations)
 
 6. [U.S. professional soccer player salaries in 2012 by team](https://public.tableau.com/views/VisualizingDistribution/Guaranteedsalarybyteam?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-7. [Control chart of global annual earthquakes of magnitude 6.0 or greater](https://public.tableau.com/views/Visualizingvariation/Lineplot?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+7. [Control chart of global annual earthquakes of magnitude 6.0 or greater](https://public.tableau.com/views/Visualizingvariation/Controlchart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 8. [Visualizing uncertainty](https://public.tableau.com/views/Visualizinguncertainty/CIsfor3rd-4thgraders?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
