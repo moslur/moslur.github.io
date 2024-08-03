@@ -4,4 +4,4 @@ title: Data Analytics Projects
 permalink: /Projects/
 ---
 
-[Sample projects in python](Automatidata_project.html)
+[A machine learning model for predicting customer generousity in tipping](Automatidata_project.html)
