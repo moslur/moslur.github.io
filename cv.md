@@ -1,8 +1,8 @@
 ---
 layout: page
-type: Certification
+type: CV/Certification
 #title: Certification
-permalink: /Certification/
+permalink: /CV/Certification/
 ---
 
 [Google Avanced Data Analytics Certification](GADA_cert.pdf)
